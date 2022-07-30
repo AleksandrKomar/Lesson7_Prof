@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<docs>
+    <doc>
+        <id>3</id>
+        <fam>Иванов</fam>
+        <name>Иван</name>
+        <otc>Иванович</otc>
+        <dateb>10-03-2005</dateb>
+        <datep>10-03-2005</datep>
+        <datev>10-03-2005</datev>
+        <datebegin>09-06-2009</datebegin>
+        <dateend>10-03-2005</dateend>
+        <vdolid>1</vdolid>
+        <specid>1</specid>
+        <klavid>1</klavid>
+        <stav>2.0</stav>
+        <progid>1</progid>
+    </doc>
+    <doc>
+        <id>4</id>
+        <fam>Петров</fam>
+        <name>Петро</name>
+        <otc>Петрович</otc>
+        <dateb>10-06-2004</dateb>
+        <datep>10-06-2004</datep>
+        <datev>10-06-2004</datev>
+        <datebegin>10-06-2010</datebegin>
+        <dateend>10-05-2007</dateend>
+        <vdolid>2</vdolid>
+        <specid>2</specid>
+        <klavid>2</klavid>
+        <stav>1.5</stav>
+        <progid>2</progid>
+    </doc>
+</docs>
